@@ -1,0 +1,25 @@
+{
+  "name": "vector1999srv",
+  "version": "0.0.1",
+  "description": "Vector1999 Server with JGame API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimu/vector1999srv.git"
+  },
+  "keywords": [
+    "JGame",
+    "Vector1999",
+    "Game",
+    "Server"
+  ],
+  "author": "James Urbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimu/vector1999srv/issues"
+  },
+  "homepage": "https://github.com/jimu/vector1999srv#readme"
+}
